@@ -12,7 +12,7 @@ This project presents an interactive **Superstore Sales Dashboard** built using 
 
 ## 📁 Files Included
 
-* `Amazon Sales Data.xlsx` – Contains raw retail sales data
+* `Superstore Sales Data.xlsx` – Contains raw retail sales data
 * `.png` screenshots – Previews of different Power BI visuals
 
 ## 🛠 Tools Used
